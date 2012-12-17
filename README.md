@@ -31,4 +31,5 @@ user=> (get m :x)
 ## License
 
 Copyright © 2008-2012 Meikel Brandmeyer, Nils Grunwald
+
 Distributed under the Eclipse Public License, the same as Clojure.
