@@ -1,4 +1,4 @@
-(defproject fr.grunwald/lazymap "3.1.0"
+(defproject fr.grunwald/lazymap "3.1.1-SNAPSHOT"
   :description "Take the greediness out of maps"
   :url "https://github.com/ngrunwald/lazymap"
   :license {:name "Eclipse Public License"
